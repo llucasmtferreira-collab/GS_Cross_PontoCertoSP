@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Ponto Certo SP",
+    "slug": "ponto-certo-sp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permissions": ["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION", "POST_NOTIFICATIONS"]
+    },
+    "plugins": [
+      ["expo-location", {"locationWhenInUsePermission": "O app usa sua localização para calcular a distância até os pontos de ônibus e mostrar os mais próximos primeiro."}],
+      "expo-notifications"
+    ]
+  }
+}

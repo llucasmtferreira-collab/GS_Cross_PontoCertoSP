@@ -1,0 +1,12 @@
+MODALIDADE: TRABALHO INDIVIDUAL
+
+Participante: Lucas Mota RM566670
+
+Responsabilidades:
+- Planejamento da proposta do aplicativo Ponto Certo SP.
+- Desenvolvimento das telas e da interface em React Native.
+- Integração com a API Olho Vivo da SPTrans.
+- Uso do GPS para calcular a distância até os pontos.
+- Consulta de previsões de chegada e organização dos dados.
+- Implementação de notificações locais, alertas e vibração.
+- Organização do código e elaboração do README.
